@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/python-fhjqhjyl:59cb88b85f24a7dc2905e66f15d133b63afede50@sha256:5de1b140b354ca75dc59b0551089d61b2b2a49489fe4721769efb74979c0630d
+        - image: quay.io/quay_xjiang/python-fhjqhjyl:83c80032eff3cd7dbd1edc2e58f9bac452354fbc@sha256:50cd765b7bb7878bc6a7e34fe66458b5f7c6819937e483ed487212e436c2b1b5
           name: container-image
